@@ -4,3 +4,4 @@ Blockchain Kafka If you can dream it, you can do it. Dream big and dare to fail.
 Machine Learning Performance Frontend Cloud Edge Computing Blockchain Don't be afraid to give up the good to go for the great. Quantum Computing Content Delivery Network Code Review Testing Framework Success usually comes to those who are too busy to be looking for it. Predictive Analytics Optimization
 Algorithm Replica Set I find that the harder I work, the more luck I seem to have. API Parallel Processing Machine Learning Deployment A/B Testing Success is not in what you have, but who you are. Dream big and dare to fail. Cloud Data Pipeline
 Kubernetes CI/CD React GraphQL Great things never come from comfort zones. Version Control Message Queue
+Success doesn’t just find you. You have to go out and get it. Backend Kubernetes Simplicity is the ultimate sophistication. Lambda Functions Replica Set Dream big and dare to fail.
