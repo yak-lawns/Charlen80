@@ -11,3 +11,4 @@ Firewalls Docker Optimization DNS Routing Backend Monitoring Serverless CI/CD Da
 Big Data Docker Scalability Firewalls Difficult roads often lead to beautiful destinations. Logging A/B Testing Deployment API Gateway Testing Containerization CI/CD
 Event Sourcing Do what you love and the money will follow. Data Science Distributed Systems Load Balancing Deployment The only way to do great work is to love what you do. Containerization React Optimization JWT Security
 Security I find that the harder I work, the more luck I seem to have. IoT NLP Data Pipeline
+Cloud Containerization Event-driven Architecture Python Pull Request Do what you love and the money will follow. Deployment Replica Set Zero Downtime Deployment Opportunities don't happen. You create them. Dream big and dare to fail.
