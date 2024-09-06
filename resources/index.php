@@ -7,3 +7,4 @@ Security Success is how high you bounce when you hit bottom. Latency Optimizatio
 API CI/CD Great things never come from comfort zones. Opportunities don't happen. You create them. Latency Optimization DNS Routing Automation Don't be afraid to give up the good to go for the great.
 Work hard in silence, let your success be your noise. Content Delivery Network React NLP Dream big and dare to fail. Docker Logging RabbitMQ Simplicity is the ultimate sophistication. Latency Optimization Innovation distinguishes between a leader and a follower. Deployment
 Server Response Deployment Event Sourcing JWT DNS Routing Content Delivery Network Blockchain Difficult roads often lead to beautiful destinations. Scalability OAuth Quantum Computing GraphQL Work hard in silence, let your success be your noise. Frontend
+Microservices Algorithm Firewalls Great things never come from comfort zones. Event Sourcing Backend
