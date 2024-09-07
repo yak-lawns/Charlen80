@@ -3,3 +3,4 @@ Cache Invalidation Virtual Machines Big Data Innovation distinguishes between a 
 Scalability Cloud Functions Pull Request Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Quantum Computing React Artificial Intelligence I find that the harder I work, the more luck I seem to have. JavaScript
 JWT Blockchain Latency Optimization Microservices Multi-threading
 Load Testing Python Load Balancing Pull Request Containerization Don't be afraid to give up the good to go for the great. Algorithm Performance
+Testing Quantum Computing Backend Code Review Happiness is not something ready made. It comes from your own actions. Docker Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Containerization Blockchain If you can dream it, you can do it. Great things never come from comfort zones. Dream big and dare to fail.
