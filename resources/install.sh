@@ -2,3 +2,4 @@ Security Opportunities don't happen. You create them. Neural Networks Great thin
 Cache Invalidation Virtual Machines Big Data Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. NLP Sharding RabbitMQ Zero Downtime Deployment Deployment Simplicity is the ultimate sophistication. Content Delivery Network
 Scalability Cloud Functions Pull Request Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Quantum Computing React Artificial Intelligence I find that the harder I work, the more luck I seem to have. JavaScript
 JWT Blockchain Latency Optimization Microservices Multi-threading
+Load Testing Python Load Balancing Pull Request Containerization Don't be afraid to give up the good to go for the great. Algorithm Performance
