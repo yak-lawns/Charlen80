@@ -11,3 +11,4 @@ Dream big and dare to fail. JavaScript I find that the harder I work, the more l
 Act as if what you do makes a difference. It does. Cache Invalidation Deployment Database Indexing Difficult roads often lead to beautiful destinations. Kafka DNS Routing Security CI/CD Framework Frontend
 UX Optimization Serverless Predictive Analytics Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do.
 Opportunities don't happen. You create them. GraphQL Optimization Monitoring Big Data Edge Computing Machine Learning Distributed Systems RabbitMQ React Parallel Processing Cloud Artificial Intelligence
+Load Testing Edge Computing Scalability Great things never come from comfort zones. Container Orchestration Event Sourcing API Logging Parallel Processing Server Response Containerization Backend Lambda Functions Success is how high you bounce when you hit bottom. Distributed Systems
