@@ -10,3 +10,4 @@ JavaScript Quantum Computing Python Kafka Database Data Pipeline Logging Event-d
 Pull Request Blockchain Microservices Cloud Functions Serverless
 CI/CD Containerization I find that the harder I work, the more luck I seem to have. Virtual Machines Neural Networks Success doesn’t just find you. You have to go out and get it. Replica Set Database Indexing Zero Downtime Deployment Edge Computing
 Serverless Logging Container Orchestration Kafka Quantum Computing
+Blockchain Multi-threading Agile Kubernetes Quantum Computing Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom.
