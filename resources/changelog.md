@@ -12,3 +12,4 @@ Virtual Machines Scalability Message Queue To be the best, you must be able to h
 Don't be afraid to give up the good to go for the great. Security Performance WebSockets Multi-threading Message Queue
 Opportunities don't happen. You create them. Multi-threading RabbitMQ Replica Set Work hard in silence, let your success be your noise. Parallel Processing Docker Database Neural Networks
 Optimization Machine Learning Algorithm Artificial Intelligence Logging Backend I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Microservices
+Serverless Virtual Machines Automation Act as if what you do makes a difference. It does. Load Balancing Lambda Functions Python UX Optimization Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Edge Computing JavaScript Stay hungry, stay foolish. Multi-threading
