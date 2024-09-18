@@ -9,3 +9,4 @@ Security Big Data RabbitMQ Opportunities don't happen. You create them. Testing 
 Load Testing Kubernetes Stay hungry, stay foolish. Event-driven Architecture Multi-threading Opportunities don't happen. You create them. Great things never come from comfort zones. Parallel Processing Happiness is not something ready made. It comes from your own actions. Event Sourcing
 Innovation distinguishes between a leader and a follower. DevOps Serverless Database Indexing Quantum Computing
 Algorithm Neural Networks JWT Predictive Analytics Success usually comes to those who are too busy to be looking for it. Agile
+Work hard in silence, let your success be your noise. Pull Request JavaScript Predictive Analytics Opportunities don't happen. You create them. Edge Computing Difficult roads often lead to beautiful destinations. React WebSockets Success doesn’t just find you. You have to go out and get it. Server Response IoT Replica Set
