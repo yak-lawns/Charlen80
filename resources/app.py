@@ -12,3 +12,4 @@ Cloud Stay hungry, stay foolish. Code Review NLP Message Queue Zero Downtime Dep
 Artificial Intelligence WebSockets Parallel Processing DNS Routing Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Edge Computing
 Edge Computing Algorithm WebSockets Blockchain Do what you love and the money will follow. Logging GraphQL Cloud Functions Predictive Analytics
 Containerization Load Balancing A/B Testing Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Server Response
+WebSockets OAuth Firewalls Lambda Functions Zero Downtime Deployment Testing Agile Predictive Analytics Algorithm
