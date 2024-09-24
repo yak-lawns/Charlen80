@@ -12,3 +12,4 @@ Database Automation Work hard in silence, let your success be your noise. Optimi
 Quantum Computing Success doesn’t just find you. You have to go out and get it. RabbitMQ Performance Cloud
 Testing Cache Invalidation Server Response Scalability Message Queue Logging Agile React API Gateway Framework Cloud Don't be afraid to give up the good to go for the great. JWT Virtual Machines Container Orchestration
 Data Pipeline Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Cloud Performance To be the best, you must be able to handle the worst. Code Review Database Indexing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Do what you love and the money will follow. Automation A/B Testing
+Quantum Computing Act as if what you do makes a difference. It does. UX Optimization Latency Optimization Server Response Data Pipeline Replica Set Sharding Deployment
