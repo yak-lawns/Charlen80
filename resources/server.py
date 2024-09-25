@@ -9,3 +9,4 @@ Cache Invalidation Containerization Scalability Zero Downtime Deployment The onl
 JavaScript Quantum Computing Python Kafka Database Data Pipeline Logging Event-driven Architecture Difficult roads often lead to beautiful destinations. Container Orchestration Load Testing Deployment Artificial Intelligence
 Pull Request Blockchain Microservices Cloud Functions Serverless
 CI/CD Containerization I find that the harder I work, the more luck I seem to have. Virtual Machines Neural Networks Success doesn’t just find you. You have to go out and get it. Replica Set Database Indexing Zero Downtime Deployment Edge Computing
+Serverless Logging Container Orchestration Kafka Quantum Computing
