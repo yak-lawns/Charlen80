@@ -9,3 +9,4 @@ Server Response Innovation distinguishes between a leader and a follower. Event-
 Firewalls JavaScript GraphQL Microservices Blockchain Kubernetes
 Firewalls Docker Optimization DNS Routing Backend Monitoring Serverless CI/CD Database Load Balancing Pull Request Sharding Cache Invalidation Blockchain Data Pipeline
 Big Data Docker Scalability Firewalls Difficult roads often lead to beautiful destinations. Logging A/B Testing Deployment API Gateway Testing Containerization CI/CD
+Event Sourcing Do what you love and the money will follow. Data Science Distributed Systems Load Balancing Deployment The only way to do great work is to love what you do. Containerization React Optimization JWT Security
