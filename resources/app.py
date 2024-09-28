@@ -10,3 +10,4 @@ Success doesn’t just find you. You have to go out and get it. The only way to do
 Distributed Systems Stay hungry, stay foolish. Database Message Queue API API Gateway Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones.
 Cloud Stay hungry, stay foolish. Code Review NLP Message Queue Zero Downtime Deployment Kafka Do what you love and the money will follow. Artificial Intelligence
 Artificial Intelligence WebSockets Parallel Processing DNS Routing Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Edge Computing
+Edge Computing Algorithm WebSockets Blockchain Do what you love and the money will follow. Logging GraphQL Cloud Functions Predictive Analytics

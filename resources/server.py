@@ -8,3 +8,4 @@ Scalability Machine Learning DevOps Happiness is not something ready made. It co
 Cache Invalidation Containerization Scalability Zero Downtime Deployment The only way to do great work is to love what you do. API Gateway Testing Big Data A/B Testing Database Version Control Latency Optimization Stay hungry, stay foolish. Kafka
 JavaScript Quantum Computing Python Kafka Database Data Pipeline Logging Event-driven Architecture Difficult roads often lead to beautiful destinations. Container Orchestration Load Testing Deployment Artificial Intelligence
 Pull Request Blockchain Microservices Cloud Functions Serverless
+CI/CD Containerization I find that the harder I work, the more luck I seem to have. Virtual Machines Neural Networks Success doesn’t just find you. You have to go out and get it. Replica Set Database Indexing Zero Downtime Deployment Edge Computing
