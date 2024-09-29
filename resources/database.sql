@@ -10,3 +10,4 @@ Pull Request Code Review Opportunities don't happen. You create them. Happiness 
 Kafka Zero Downtime Deployment UX Optimization Data Pipeline Server Response Message Queue Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. RabbitMQ Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. API IoT Latency Optimization
 Database Automation Work hard in silence, let your success be your noise. Optimization Data Pipeline IoT Containerization Success is not in what you have, but who you are. Dream big and dare to fail.
 Quantum Computing Success doesn’t just find you. You have to go out and get it. RabbitMQ Performance Cloud
+Testing Cache Invalidation Server Response Scalability Message Queue Logging Agile React API Gateway Framework Cloud Don't be afraid to give up the good to go for the great. JWT Virtual Machines Container Orchestration
