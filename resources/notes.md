@@ -15,3 +15,4 @@ Opportunities don't happen. You create them. The only way to do great work is to
 Frontend Framework IoT DevOps Algorithm Testing Database Indexing Cloud Functions UX Optimization Serverless Security Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication.
 Load Testing Cache Invalidation Performance WebSockets JWT DevOps Deployment API Gateway
 Version Control Scalability OAuth Machine Learning Simplicity is the ultimate sophistication. Big Data Act as if what you do makes a difference. It does. Kubernetes Testing Message Queue Load Testing Virtual Machines Python
+Dream big and dare to fail. Big Data Artificial Intelligence Cloud Functions Virtual Machines Innovation distinguishes between a leader and a follower.
