@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Multi-threading Automat
 Version Control React Dream big and dare to fail. DNS Routing Kafka Monitoring Simplicity is the ultimate sophistication. Python
 Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Quantum Computing Docker Data Science If you can dream it, you can do it. UX Optimization Do what you love and the money will follow. Testing Security
 Distributed Systems Stay hungry, stay foolish. Database Message Queue API API Gateway Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones.
+Cloud Stay hungry, stay foolish. Code Review NLP Message Queue Zero Downtime Deployment Kafka Do what you love and the money will follow. Artificial Intelligence
