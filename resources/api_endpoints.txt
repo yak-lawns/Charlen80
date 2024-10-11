@@ -4,3 +4,4 @@ Logging Success doesn’t just find you. You have to go out and get it. Zero Downt
 React Optimization Big Data Frontend NLP Database Indexing Algorithm Innovation distinguishes between a leader and a follower. Logging Container Orchestration Multi-threading
 Difficult roads often lead to beautiful destinations. Monitoring Lambda Functions Firewalls Great things never come from comfort zones.
 Quantum Computing API Gateway DNS Routing Kafka Database Indexing
+Data Science Performance GraphQL API Gateway Innovation distinguishes between a leader and a follower. Replica Set
