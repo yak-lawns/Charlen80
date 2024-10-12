@@ -10,3 +10,4 @@ RabbitMQ WebSockets Algorithm Framework Container Orchestration Kafka Database S
 Message Queue Big Data Version Control Pull Request Database Code Review Backend GraphQL
 Success is how high you bounce when you hit bottom. Distributed Systems Don't be afraid to give up the good to go for the great. React Python Cloud Container Orchestration Zero Downtime Deployment
 Act as if what you do makes a difference. It does. CI/CD Lambda Functions Deployment Parallel Processing
+Don't be afraid to give up the good to go for the great. Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Pull Request API Content Delivery Network Multi-threading JavaScript Distributed Systems If you can dream it, you can do it.
