@@ -9,3 +9,4 @@ Data Science Testing Performance Firewalls JWT
 Pull Request Code Review Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Deployment
 Kafka Zero Downtime Deployment UX Optimization Data Pipeline Server Response Message Queue Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. RabbitMQ Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. API IoT Latency Optimization
 Database Automation Work hard in silence, let your success be your noise. Optimization Data Pipeline IoT Containerization Success is not in what you have, but who you are. Dream big and dare to fail.
+Quantum Computing Success doesn’t just find you. You have to go out and get it. RabbitMQ Performance Cloud
