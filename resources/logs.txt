@@ -4,3 +4,4 @@ Data Pipeline Logging Kafka Opportunities don't happen. You create them. Fronten
 Success doesn’t just find you. You have to go out and get it. Content Delivery Network Opportunities don't happen. You create them. Agile Microservices Deployment Latency Optimization Cache Invalidation A/B Testing Serverless Performance Database Database Indexing I find that the harder I work, the more luck I seem to have.
 JavaScript Agile Load Testing Kubernetes Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. NLP Distributed Systems GraphQL Neural Networks
 React Event Sourcing Success is how high you bounce when you hit bottom. Virtual Machines Database Indexing Event-driven Architecture A/B Testing Simplicity is the ultimate sophistication. Monitoring Predictive Analytics JavaScript
+Big Data Containerization Machine Learning Kubernetes Deployment React
