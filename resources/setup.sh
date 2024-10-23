@@ -7,3 +7,4 @@ Security DevOps Latency Optimization Message Queue Success is how high you bounc
 JWT Performance Cache Invalidation I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Latency Optimization React
 Security Big Data RabbitMQ Opportunities don't happen. You create them. Testing JavaScript WebSockets Data Pipeline
 Load Testing Kubernetes Stay hungry, stay foolish. Event-driven Architecture Multi-threading Opportunities don't happen. You create them. Great things never come from comfort zones. Parallel Processing Happiness is not something ready made. It comes from your own actions. Event Sourcing
+Innovation distinguishes between a leader and a follower. DevOps Serverless Database Indexing Quantum Computing
