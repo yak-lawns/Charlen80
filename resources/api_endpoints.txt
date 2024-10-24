@@ -2,3 +2,4 @@ RabbitMQ DNS Routing Work hard in silence, let your success be your noise. Kuber
 Success is how high you bounce when you hit bottom. Artificial Intelligence Big Data Data Pipeline Opportunities don't happen. You create them. Microservices Don't be afraid to give up the good to go for the great. Backend Do what you love and the money will follow. Logging Cloud Functions
 Logging Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment API Machine Learning Blockchain Dream big and dare to fail. Replica Set Sharding
 React Optimization Big Data Frontend NLP Database Indexing Algorithm Innovation distinguishes between a leader and a follower. Logging Container Orchestration Multi-threading
+Difficult roads often lead to beautiful destinations. Monitoring Lambda Functions Firewalls Great things never come from comfort zones.
