@@ -9,3 +9,4 @@ Zero Downtime Deployment Cloud Virtual Machines Happiness is not something ready
 RabbitMQ Docker Cache Invalidation Content Delivery Network Success doesn’t just find you. You have to go out and get it. Serverless React
 Dream big and dare to fail. JavaScript I find that the harder I work, the more luck I seem to have. Optimization Framework GraphQL Security React
 Act as if what you do makes a difference. It does. Cache Invalidation Deployment Database Indexing Difficult roads often lead to beautiful destinations. Kafka DNS Routing Security CI/CD Framework Frontend
+UX Optimization Serverless Predictive Analytics Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do.
