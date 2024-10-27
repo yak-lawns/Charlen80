@@ -7,3 +7,4 @@ Backend Cloud Functions Firewalls Cloud Quantum Computing Load Balancing Databas
 Data Science Version Control Zero Downtime Deployment API Simplicity is the ultimate sophistication. Automation Containerization Blockchain Security
 RabbitMQ IoT Microservices Parallel Processing React WebSockets API A/B Testing Success usually comes to those who are too busy to be looking for it. Algorithm OAuth Neural Networks
 RabbitMQ WebSockets Algorithm Framework Container Orchestration Kafka Database Stay hungry, stay foolish. React
+Message Queue Big Data Version Control Pull Request Database Code Review Backend GraphQL
