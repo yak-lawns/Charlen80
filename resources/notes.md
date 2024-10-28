@@ -12,3 +12,4 @@ Distributed Systems Multi-threading WebSockets Success doesn’t just find you. Yo
 CI/CD Algorithm Don't be afraid to give up the good to go for the great. React Database Indexing Dream big and dare to fail. Quantum Computing Monitoring Sharding Edge Computing Stay hungry, stay foolish. Do what you love and the money will follow. WebSockets Optimization Cache Invalidation
 API Gateway Code Review Data Science Success is how high you bounce when you hit bottom. Server Response
 Opportunities don't happen. You create them. The only way to do great work is to love what you do. GraphQL Version Control Quantum Computing Blockchain JavaScript
+Frontend Framework IoT DevOps Algorithm Testing Database Indexing Cloud Functions UX Optimization Serverless Security Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication.
