@@ -5,3 +5,4 @@ Lambda Functions API Gateway Success usually comes to those who are too busy to 
 Cache Invalidation UX Optimization Load Balancing Data Pipeline The only way to do great work is to love what you do. Monitoring Kafka Event Sourcing Backend Difficult roads often lead to beautiful destinations. NLP RabbitMQ Predictive Analytics Container Orchestration Cloud Functions
 Security DevOps Latency Optimization Message Queue Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Distributed Systems Sharding Dream big and dare to fail. Agile Kafka Multi-threading Load Balancing Opportunities don't happen. You create them. Backend
 JWT Performance Cache Invalidation I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Latency Optimization React
+Security Big Data RabbitMQ Opportunities don't happen. You create them. Testing JavaScript WebSockets Data Pipeline
