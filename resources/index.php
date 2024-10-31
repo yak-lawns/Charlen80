@@ -3,3 +3,4 @@ Message Queue Multi-threading CI/CD Virtual Machines Kubernetes Automation Big D
 Database Indexing Neural Networks React Load Balancing Parallel Processing API Gateway Success doesn’t just find you. You have to go out and get it. Big Data
 Big Data API Gateway Success is not in what you have, but who you are. CI/CD DNS Routing Firewalls Multi-threading Happiness is not something ready made. It comes from your own actions. Database Code Review Performance Optimization
 A/B Testing NLP WebSockets Act as if what you do makes a difference. It does. Database Virtual Machines Dream big and dare to fail. Message Queue Difficult roads often lead to beautiful destinations. Machine Learning Python Version Control Agile
+Security Success is how high you bounce when you hit bottom. Latency Optimization Virtual Machines Success usually comes to those who are too busy to be looking for it.
