@@ -6,3 +6,4 @@ Automation Performance React Zero Downtime Deployment Monitoring
 Data Science Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Lambda Functions Latency Optimization Artificial Intelligence Version Control Sharding GraphQL Data Pipeline Python Event Sourcing Predictive Analytics
 JWT Event-driven Architecture Load Testing Kubernetes Edge Computing
 I find that the harder I work, the more luck I seem to have. Frontend WebSockets Version Control Data Science Artificial Intelligence Scalability
+Security Quantum Computing WebSockets Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Cache Invalidation Edge Computing Testing Parallel Processing Virtual Machines Backend Happiness is not something ready made. It comes from your own actions. DevOps
