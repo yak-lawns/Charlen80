@@ -3,3 +3,4 @@ Cloud GraphQL WebSockets Do what you love and the money will follow. DevOps Secu
 The only way to do great work is to love what you do. Testing Blockchain JWT Sharding Security Difficult roads often lead to beautiful destinations. Docker Python Performance
 Big Data Happiness is not something ready made. It comes from your own actions. Kafka The only way to do great work is to love what you do. A/B Testing Success is how high you bounce when you hit bottom. Zero Downtime Deployment Version Control Do what you love and the money will follow. Stay hungry, stay foolish. Pull Request Sharding Cloud
 Database Kafka I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions.
+Version Control React Do what you love and the money will follow. Machine Learning Server Response The only way to do great work is to love what you do. Backend
