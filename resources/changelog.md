@@ -6,3 +6,4 @@ Kubernetes GraphQL Performance Version Control Success is how high you bounce wh
 Dream big and dare to fail. Python Great things never come from comfort zones. Sharding Load Balancing Artificial Intelligence Microservices API Monitoring Database Indexing Database
 Docker Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Scalability Serverless Act as if what you do makes a difference. It does. JWT JavaScript Do what you love and the money will follow. DevOps Code Review API Microservices Event Sourcing DNS Routing
 Code Review NLP Server Response Database Indexing Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Zero Downtime Deployment Simplicity is the ultimate sophistication.
+Zero Downtime Deployment Cloud Functions Distributed Systems Monitoring Event Sourcing Blockchain
