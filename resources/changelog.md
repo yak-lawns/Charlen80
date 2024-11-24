@@ -4,3 +4,4 @@ Predictive Analytics Python Stay hungry, stay foolish. JavaScript Firewalls Drea
 Code Review Server Response RabbitMQ Cache Invalidation JavaScript
 Kubernetes GraphQL Performance Version Control Success is how high you bounce when you hit bottom. Artificial Intelligence Frontend RabbitMQ Kafka NLP Container Orchestration Cache Invalidation
 Dream big and dare to fail. Python Great things never come from comfort zones. Sharding Load Balancing Artificial Intelligence Microservices API Monitoring Database Indexing Database
+Docker Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Scalability Serverless Act as if what you do makes a difference. It does. JWT JavaScript Do what you love and the money will follow. DevOps Code Review API Microservices Event Sourcing DNS Routing
