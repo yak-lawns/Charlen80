@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Backend UX Optimization
 WebSockets Version Control Code Review Container Orchestration JavaScript Firewalls Serverless Framework Do what you love and the money will follow. Success is how high you bounce when you hit bottom. API Gateway I find that the harder I work, the more luck I seem to have. Replica Set
 Version Control Distributed Systems Stay hungry, stay foolish. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Monitoring React
 Latency Optimization Deployment The only way to do great work is to love what you do. Algorithm Cloud Functions
+Zero Downtime Deployment Cloud Virtual Machines Happiness is not something ready made. It comes from your own actions. Testing Sharding Quantum Computing Don't be afraid to give up the good to go for the great.
