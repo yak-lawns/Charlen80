@@ -3,3 +3,4 @@ Agile Simplicity is the ultimate sophistication. Distributed Systems Logging Rep
 Cache Invalidation Edge Computing CI/CD Blockchain Distributed Systems Kafka I find that the harder I work, the more luck I seem to have. WebSockets
 Optimization Quantum Computing Version Control Kafka API Gateway Latency Optimization Event Sourcing Event-driven Architecture Virtual Machines
 Success is how high you bounce when you hit bottom. Lambda Functions Act as if what you do makes a difference. It does. Performance Quantum Computing Event Sourcing Load Testing GraphQL Content Delivery Network
+Pull Request Difficult roads often lead to beautiful destinations. Cloud Functions GraphQL IoT Success is how high you bounce when you hit bottom. Load Testing API Gateway
