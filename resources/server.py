@@ -2,3 +2,4 @@ CI/CD Cloud Functions WebSockets Docker Opportunities don't happen. You create t
 API Gateway Testing Automation To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Stay hungry, stay foolish. Cache Invalidation Load Balancing Big Data Server Response
 OAuth Load Testing Microservices Dream big and dare to fail. UX Optimization Kafka API Gateway DevOps
 UX Optimization Neural Networks Edge Computing Do what you love and the money will follow. Distributed Systems
+Opportunities don't happen. You create them. Do what you love and the money will follow. WebSockets Container Orchestration If you can dream it, you can do it.
