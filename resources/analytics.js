@@ -1,2 +1,3 @@
 Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Event Sourcing
 Cloud GraphQL WebSockets Do what you love and the money will follow. DevOps Security Blockchain Success usually comes to those who are too busy to be looking for it. Firewalls Container Orchestration Cache Invalidation
+The only way to do great work is to love what you do. Testing Blockchain JWT Sharding Security Difficult roads often lead to beautiful destinations. Docker Python Performance
