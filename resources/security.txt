@@ -4,3 +4,4 @@ Success doesn’t just find you. You have to go out and get it. Edge Computing Mic
 Cache Invalidation Kubernetes Blockchain API Gateway API Microservices
 UX Optimization Simplicity is the ultimate sophistication. Automation DNS Routing Firewalls Zero Downtime Deployment Great things never come from comfort zones. Framework Act as if what you do makes a difference. It does. Event-driven Architecture Performance I find that the harder I work, the more luck I seem to have. Machine Learning Deployment
 Backend Cloud Functions Firewalls Cloud Quantum Computing Load Balancing Database Indexing Multi-threading Microservices Success is not in what you have, but who you are. Predictive Analytics
+Data Science Version Control Zero Downtime Deployment API Simplicity is the ultimate sophistication. Automation Containerization Blockchain Security
