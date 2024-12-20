@@ -7,3 +7,4 @@ Success usually comes to those who are too busy to be looking for it. Code Revie
 The only way to do great work is to love what you do. CI/CD Stay hungry, stay foolish. Serverless Distributed Systems RabbitMQ To be the best, you must be able to handle the worst. Replica Set Security DevOps Difficult roads often lead to beautiful destinations.
 Server Response Innovation distinguishes between a leader and a follower. Event-driven Architecture Monitoring Docker Framework Load Balancing Content Delivery Network Edge Computing Artificial Intelligence
 Firewalls JavaScript GraphQL Microservices Blockchain Kubernetes
+Firewalls Docker Optimization DNS Routing Backend Monitoring Serverless CI/CD Database Load Balancing Pull Request Sharding Cache Invalidation Blockchain Data Pipeline

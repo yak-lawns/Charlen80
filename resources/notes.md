@@ -6,3 +6,4 @@ Distributed Systems Deployment Pull Request API Gateway Frontend Do what you lov
 Sharding API Gateway Latency Optimization Performance React DevOps
 React Success is how high you bounce when you hit bottom. DNS Routing Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Database Event-driven Architecture Logging NLP JavaScript Success usually comes to those who are too busy to be looking for it. Optimization Parallel Processing OAuth
 CI/CD JavaScript Kafka Multi-threading Load Balancing Monitoring Performance Opportunities don't happen. You create them. Deployment A/B Testing Stay hungry, stay foolish. Artificial Intelligence
+Artificial Intelligence Backend Content Delivery Network Testing Cache Invalidation Serverless I find that the harder I work, the more luck I seem to have. Cloud Success usually comes to those who are too busy to be looking for it.
