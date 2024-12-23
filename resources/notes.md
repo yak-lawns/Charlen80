@@ -5,3 +5,4 @@ Big Data Work hard in silence, let your success be your noise. Stay hungry, stay
 Distributed Systems Deployment Pull Request API Gateway Frontend Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. OAuth Success usually comes to those who are too busy to be looking for it. Scalability
 Sharding API Gateway Latency Optimization Performance React DevOps
 React Success is how high you bounce when you hit bottom. DNS Routing Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Database Event-driven Architecture Logging NLP JavaScript Success usually comes to those who are too busy to be looking for it. Optimization Parallel Processing OAuth
+CI/CD JavaScript Kafka Multi-threading Load Balancing Monitoring Performance Opportunities don't happen. You create them. Deployment A/B Testing Stay hungry, stay foolish. Artificial Intelligence
