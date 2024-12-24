@@ -3,3 +3,4 @@ Work hard in silence, let your success be your noise. Server Response Machine Le
 Success doesn’t just find you. You have to go out and get it. Edge Computing Microservices CI/CD Docker Distributed Systems React Server Response
 Cache Invalidation Kubernetes Blockchain API Gateway API Microservices
 UX Optimization Simplicity is the ultimate sophistication. Automation DNS Routing Firewalls Zero Downtime Deployment Great things never come from comfort zones. Framework Act as if what you do makes a difference. It does. Event-driven Architecture Performance I find that the harder I work, the more luck I seem to have. Machine Learning Deployment
+Backend Cloud Functions Firewalls Cloud Quantum Computing Load Balancing Database Indexing Multi-threading Microservices Success is not in what you have, but who you are. Predictive Analytics
