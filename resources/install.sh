@@ -1,1 +1,2 @@
 Security Opportunities don't happen. You create them. Neural Networks Great things never come from comfort zones. DNS Routing
+Cache Invalidation Virtual Machines Big Data Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. NLP Sharding RabbitMQ Zero Downtime Deployment Deployment Simplicity is the ultimate sophistication. Content Delivery Network
