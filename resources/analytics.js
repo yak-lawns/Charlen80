@@ -1,0 +1,1 @@
+Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Event Sourcing
