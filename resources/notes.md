@@ -3,3 +3,4 @@ Container Orchestration Artificial Intelligence Success doesn’t just find you. Y
 Stay hungry, stay foolish. A/B Testing Opportunities don't happen. You create them. Pull Request Load Testing CI/CD Virtual Machines JavaScript Multi-threading Scalability Frontend Distributed Systems
 Big Data Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Backend IoT Lambda Functions Difficult roads often lead to beautiful destinations. Database Success usually comes to those who are too busy to be looking for it. JavaScript
 Distributed Systems Deployment Pull Request API Gateway Frontend Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. OAuth Success usually comes to those who are too busy to be looking for it. Scalability
+Sharding API Gateway Latency Optimization Performance React DevOps
