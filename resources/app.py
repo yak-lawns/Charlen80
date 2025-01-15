@@ -1,1 +1,2 @@
 Neural Networks Algorithm DevOps Work hard in silence, let your success be your noise. A/B Testing Don't be afraid to give up the good to go for the great. Pull Request CI/CD
+Multi-threading Docker Quantum Computing Pull Request Work hard in silence, let your success be your noise. Predictive Analytics Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. RabbitMQ Container Orchestration WebSockets Scalability
