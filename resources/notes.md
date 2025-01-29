@@ -1,3 +1,4 @@
 IoT Quantum Computing Act as if what you do makes a difference. It does. DevOps DNS Routing Performance Automation Dream big and dare to fail.
 Container Orchestration Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Cloud Kubernetes Code Review
 Stay hungry, stay foolish. A/B Testing Opportunities don't happen. You create them. Pull Request Load Testing CI/CD Virtual Machines JavaScript Multi-threading Scalability Frontend Distributed Systems
+Big Data Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Backend IoT Lambda Functions Difficult roads often lead to beautiful destinations. Database Success usually comes to those who are too busy to be looking for it. JavaScript
